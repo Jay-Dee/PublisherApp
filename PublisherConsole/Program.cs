@@ -11,7 +11,7 @@ namespace PublisherConsole {
             //GetAuthors();
 
             //AddAuthorWithBooks();
-            RemoveAuthors();
+            //RemoveAuthors();
             GetAuthorsWithBooks();
 
             Console.ReadKey();
